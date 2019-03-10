@@ -1,5 +1,7 @@
 # Python-project
-Total 12 projects.
+Total 11 projects.  
+In each folder, the proj.py is the code of project. Also, there is a description of each project inside the folder.  
+
 The goal is that when students are presented with a problem they will say “I can write a program to solve that!”   
 The theme is to take real data and analyze it.   
 The course uses Python, and assumes no prior programming.  
